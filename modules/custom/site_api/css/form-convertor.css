@@ -11,6 +11,9 @@
     top: -25px;
     background-color: blue;
     opacity: 0.5;
+    text-align: center;
+    color: black;
+    font-size: 30px;
 }
 
 .width-overlay.bottom {

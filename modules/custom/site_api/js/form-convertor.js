@@ -3,7 +3,7 @@
 		$('.node-slide-form').each(function() {
 			/* creation */
 			var slide = $('<div class="slide"></div>'),
-			widthOverlayTop = $('<div class="width-overlay top"></div>'),
+			widthOverlayTop = $('<div class="width-overlay top">Mousewheel</div>'),
 			widthOverlayBottom = $('<div class="width-overlay bottom"></div>'),
 			heightOverlayLeft = $('<div class="height-overlay left"></div>'),
 			heightOverlayRight = $('<div class="height-overlay right"></div>');
