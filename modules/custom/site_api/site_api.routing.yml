@@ -1,0 +1,6 @@
+site_api.test_page:
+  path: '/site-api-test-page'
+  defaults:
+    _controller: '\Drupal\site_api\Controller\TestController::testPage'
+  requirements:
+    _permission: 'access content'

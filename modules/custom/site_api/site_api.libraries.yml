@@ -1,0 +1,10 @@
+form-convertor:
+  version: 1.x
+  css:
+    theme:
+      css/form-convertor.css: {}
+  js:
+    js/jquery.mousewheel.min.js: {}
+    js/form-convertor.js: {}
+  dependencies:
+    - core/jquery

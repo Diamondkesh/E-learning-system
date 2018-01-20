@@ -1,0 +1,4 @@
+<?php
+function site_api_preprocess_page(&$variables) {
+	
+}
