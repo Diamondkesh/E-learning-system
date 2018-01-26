@@ -1,7 +1,7 @@
 .slide {
     position: relative;
     height: 400px;
-    background-color: pink;
+    background-color: lightgrey;
 }
 
 .width-overlay.top {
@@ -41,4 +41,13 @@
     right: -25px;
     background-color: yellow;
     opacity: 0.5;
+}
+
+.body-space {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 10%;
+    height: 10%;
+    background-color: orange;
 }
